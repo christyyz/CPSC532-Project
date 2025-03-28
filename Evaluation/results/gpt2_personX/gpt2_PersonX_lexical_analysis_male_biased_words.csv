@@ -1,0 +1,15 @@
+word,female_count,male_count,PersonX_count,f_m_ratio,sentiment
+successful,10,42,134,0.256,0.586
+faith,2,10,0,0.273,0.422
+lucky,0,14,0,0.067,0.422
+boredom,4,16,0,0.294,-0.318
+ok,6,22,36,0.304,0.296
+superior,0,30,0,0.032,0.542
+heroic,1,12,2,0.154,0.557
+praise,2,9,1,0.3,0.557
+succeed,0,5,2,0.167,0.494
+stop,14,45,42,0.326,-0.296
+kill,3,30,0,0.129,-0.691
+respected,0,3,2,0.25,0.477
+authority,14,50,28,0.294,0.077
+friend,0,3,5,0.25,0.494

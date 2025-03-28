@@ -133,9 +133,9 @@ df_gpt2_female = pd.read_csv('../Copy of integrated_female.csv')
 df_gpt2_male = pd.read_csv('../Copy of integrated_male.csv')
 df_gpt2_personX = pd.read_csv('../Copy of extracted_PersonX.csv')
 
-def process_df(df):
+def process_df(df, column):
     for index, row in df.iterrows():
-        inference = row['generations']
+        inference = row[column]
         if type(inference) == float: # need updated after filling in missing data
             df.loc[index, 'First Inference'] = 'none'
             print(index)
@@ -144,9 +144,9 @@ def process_df(df):
         first_non_none = next((x for x in inference_lst if x != 'none'), None)
         df.loc[index, 'First Inference'] = first_non_none
 
-process_df(df_gpt2_female)
-process_df(df_gpt2_male)
-process_df(df_gpt2_personX)
+process_df(df_gpt2_female, 'generations')
+process_df(df_gpt2_male, 'generations')
+process_df(df_gpt2_personX, 'extracted_generations')
 df_gpt2_female.rename(columns={'First Inference': 'Female Inference'}, inplace=True)
 df_gpt2_male.rename(columns={'First Inference': 'Male Inference'}, inplace=True)
 df_gpt2_personX.rename(columns={'First Inference': 'PersonX Inference'}, inplace=True)
@@ -191,5 +191,5 @@ def round_all_csvs_in_folder(folder_path):
 round_all_csvs_in_folder('../results/bart_personX/')
 round_all_csvs_in_folder('../results/bart_unisex/')
 round_all_csvs_in_folder('../results/gpt2_unisex/')
-
+round_all_csvs_in_folder('../results/gpt2_personX/')
 # %%

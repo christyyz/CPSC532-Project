@@ -67,4 +67,5 @@ def lexical_analysis(llm_model, neutral):
 lexical_analysis('bart', 'Unisex')
 lexical_analysis('bart', 'PersonX')
 lexical_analysis('gpt2', 'Unisex')
+lexical_analysis('gpt2', 'PersonX')
 # %%

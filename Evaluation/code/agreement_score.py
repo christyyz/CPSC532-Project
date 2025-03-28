@@ -23,5 +23,6 @@ def agreement_score(llm_model, neutral):
 # %%
 agreement_score('bart', 'Unisex')
 agreement_score('bart', 'PersonX')
-# %%
 agreement_score('gpt2', 'Unisex')
+agreement_score('gpt2', 'PersonX')
+# %%

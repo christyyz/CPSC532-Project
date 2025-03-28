@@ -1,0 +1,16 @@
+word,female_count,male_count,Unisex_count,f_m_ratio,sentiment
+respected,0,3,2,0.25,0.477
+heroic,1,12,2,0.154,0.557
+stop,14,45,51,0.326,-0.296
+straight,0,4,5,0.2,0.226
+superior,0,30,0,0.032,0.542
+lucky,0,14,0,0.067,0.422
+praise,2,9,7,0.3,0.557
+kill,3,30,5,0.129,-0.691
+boredom,4,16,0,0.294,-0.318
+faith,2,10,3,0.273,0.422
+authority,14,50,19,0.294,0.077
+successful,10,42,16,0.256,0.586
+friend,0,3,16,0.25,0.494
+succeed,0,5,0,0.167,0.494
+ok,6,22,14,0.304,0.296

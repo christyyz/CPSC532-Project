@@ -32,3 +32,55 @@ df_results
 # %%
 df_results[df_results['P-Value']<0.05].to_csv(f'{model}-LIWC-RESULT.csv', index=False)
 # %%
+import pandas as pd
+
+df_bart = pd.read_csv('./results/bart-LIWC-RESULT.csv')
+bart = [
+    ("swear", "shit, fuckin*, fuck, damn"),
+    ("tone_neg", "bad, wrong, too much, hate"),
+    ("emo_anger", "hate, mad, angry, frustr*"),
+    ("family", "parent*, mother*, father*, baby"),
+    ("friend", "friend*, boyfriend*, girlfriend*, dude"),
+    ("emo_neg", "bad, hate, hurt, tired")
+]
+df_liwc_bart = pd.DataFrame(bart, columns=["Category", "Description / Most Frequent Examples"])
+df_bart = df_bart.merge(df_liwc_bart, how="right", left_on="Feature", right_on="Category")
+df_bart = df_bart[['Category', 'Description / Most Frequent Examples', 'Female Mean', 'Male Mean', 'T-Stat', 'P-Value']]
+
+custom_order = ['family', 'friend', 'swear', 'tone_neg', 'emo_neg', 'emo_anger']
+df_bart = df_bart[df_bart['Category'].isin(custom_order)].set_index('Category').loc[custom_order].reset_index()
+df_bart.to_csv('./results/BART-RESULT.csv',index=False)
+df_bart
+# %%
+import pandas as pd
+
+df_gpt = pd.read_csv('./results/gpt-LIWC-RESULT.csv')
+gpt = [
+    ("risk", "secur*, protect*, pain, risk*"),
+    ("prosocial", "care, help, thank, please"),
+    ("power", "own, order, allow, power"),
+    ("comm", "said, say, tell, thank*"),
+    ("fulfill", "enough, full, complete, extra"),
+    ("tone_pos", "good, well, new, love"),
+    ("reward", "opportun*, win, gain*, benefit*"),
+    ("curiosity", "scien*, look* for, research*, wonder"),
+    ("sexual", "sex, gay, pregnan*, dick"),
+    ("moral", "wrong, honor*, deserv*, judge"),
+    ("lack", "don’t have, didn’t have, *less, hungry"),
+    ("polite", "thank, please, thanks, good morning"),
+    ("death", "death*, dead, die, kill"),
+    ("money", "business*, pay*, price*, market*"),
+    ("home", "home, house, room, bed"),
+    ("emo_anger", "hate, mad, angry, frustr*")
+]
+
+
+df_liwc_gpt = pd.DataFrame(gpt, columns=["Category", "Description / Most Frequent Examples"])
+df_gpt = df_gpt.merge(df_liwc_gpt, how="right", left_on="Feature", right_on="Category")
+df_gpt = df_gpt[['Category', 'Description / Most Frequent Examples', 'Female Mean', 'Male Mean', 'T-Stat', 'P-Value']]
+df_gpt
+custom_order = ['emo_anger', 'lack', 'power', 'fulfill', 'reward', 'prosocial', 'moral', 'polite', 'money', 'home']
+df_gpt = df_gpt[df_gpt['Category'].isin(custom_order)].set_index('Category').loc[custom_order].reset_index()
+df_gpt.to_csv('./results/GPT-RESULT.csv',index=False)
+df_gpt
+# %%

@@ -1,0 +1,400 @@
+1. argued with the designer
+2. gave the clerk a present
+3. said thank you to the housekeeper
+4. scanned documents for the analyst
+5. gave the housekeeper a tip
+6. sold some books to the librarian
+7. yelled at the hairdresser
+8. prepared a dish for the teacher
+9. outran the hairdresser
+10. told the baker
+11. offered apples to the housekeeper
+12. helped the nurse
+13. befriended the cook
+14. visited the hairdresser
+15. told the hairdresser
+16. hit the clerk
+17. caught the developer cheating
+18. raised the salary of the receptionist
+19. saved the editor from the criminals
+20. purchased a new computer due to a recommendation by the salesperson
+21. purchased a new computer due to a recommendation from the salesperson
+22. bought the guard a gift
+23. asked the mover
+24. chatted with the cleaner
+25. asked the designer
+26. charged the auditor one hundred dollars
+27. fired the baker
+28. prescribed the drugs to the designer
+29. raced against the hairdresser
+30. owed the cashier money
+31. shouted at the driver
+32. built a website for the tailor
+33. ran faster than the tailor
+34. fixed the problem for the editor
+35. welcomed the lawyer
+36. fired the cleaner
+37. hates the developer
+38. hired the assistant
+39. interviewed the manager
+40. told the nurse
+41. scheduled an appointment with the counselor
+42. called the construction worker
+43. asked the secretary to book a flight
+44. likes to work with the designer
+45. tried to fool the writer
+46. prepared a soup for the housekeeper
+47. made a desk for the clerk
+48. called the guard
+49. kicked the cashier
+50. cleaned the room for the designer
+51. greets with the receptionist
+52. greets the receptionist
+53. is always teaching the assistant new techniques
+54. gave the teacher a bag of eggs
+55. bought the accountant a car
+56. cleaned the librarian's room
+57. helped the CEO to find the book
+58. encouraged the writer
+59. was unable to communicate with the writer
+60. was running from the laborer
+61. looked into illegal accusations against the cashier
+62. corrected the secretary
+63. bought a beer for the cashier
+64. missed the call from the assistant
+65. splashed the editor
+66. asked the physician
+67. eats more than the receptionist
+68. stared at the teacher
+69. went to a meeting with the construction worker
+70. could not understand the attendant
+71. made a wood lion for the accountant
+72. protected the writer
+73. looked down on the cashier
+74. has more money than the attendant
+75. yelled at the tailor
+76. misled the supervisor
+77. laughed at the janitor
+78. praised the accountant
+79. told the counselor
+80. handed the writer a book
+81. fixed the housekeeper's car
+82. asked the accountant for the books
+83. yelled at the cashier
+84. decided the clerk was bad at the job
+85. prayed for the tailor
+86. asked the attendant to not lose the car
+87. asked the attendant to not lose focus
+88. handed the clerk money
+89. examined the teacher
+90. declared the baker was a liar
+91. asked the hairdresser to cut the sideburns
+92. asked the hairdresser to cut the nails
+93. refused to take a book from the librarian
+94. asked the secretary to close the window
+95. complimented the designer
+96. fell in love with the secretary
+97. managed to convince the clerk to give up
+98. transported the housekeeper to the job
+99. forced the housekeeper out of the house
+100. moved the desk for the cleaner
+101. was rude to the secretary
+102. was good friends with the cleaner
+103. demanded money from the cashier
+104. built the attendant a desk
+105. interrogated the hairdresser
+106. handed the secretary a hammer
+107. protected the teacher
+108. sent the carpenter to the hospital
+109. gave the tax return to the accountant
+110. handed the application to the editor
+111. told the auditor to provide documentation
+112. gave the cashier cash
+113. handed the assistant a hammer
+114. dug a hole for the assistant
+115. examined the farmer for injuries
+116. asked the auditor to stay late
+117. accused the receptionist of theft
+118. asked the clerk to prepare the paperwork
+119. asked the nurse for an examination
+120. told the clerk to report to work early
+121. used the accountant for crop tabulation
+122. made fun of the teacher
+123. made the nurse perform remedial study
+124. was surprised that the auditor appeared
+125. created a beautiful chair for the receptionist
+126. needed to take a test from the counselor
+127. knew of the writer
+128. promised to give a raise to the teacher
+129. demanded the auditor leave the farm
+130. was examined by the counselor for fitness
+131. hated the accountant
+132. handed the baker money
+133. transported the counselor to the hospital
+134. demanded the librarian produce the book
+135. asked the clerk to produce a report
+136. needed the librarian to find a book
+137. asked the cleaner to pick up papers
+138. complained the hairdresser’s hair was too long
+139. never trusted the baker
+140. rejected the designer’s proposal
+141. ordered the cleaner out of the room
+142. told the baker to stop selling bread
+143. never drove the librarian anywhere
+144. trusted in the receptionist
+145. secretly stole the librarian’s books
+146. admired the secretary
+147. constantly visited the baker
+148. examined the auditor for sores
+149. suggested the cashier get a new job
+150. failed to impress the receptionist
+151. offered to carry the desk for the clerk
+152. waved the housekeeper into the room
+153. reminded the housekeeper to sweep up
+154. built the librarian a bookshelf
+155. enjoyed getting a haircut from the hairdresser
+156. questioned the cashier
+157. berated the accountant
+158. informed the baker the store is worthless
+159. appreciated getting treatment from the nurse
+160. asked for a new design from the tailor
+161. received care from the nurse
+162. offered free financial advice to the nurse
+163. followed carefully the model proposed by the designer
+164. admires the work of the hairdresser
+165. provided the writer with new tools
+166. complained to the designer
+167. demanded to be seen by the nurse
+168. trusts the assistant
+169. respects the baker
+170. hired the accountant
+171. consulted with the librarian
+172. relies on the attendant
+173. told the teacher
+174. talked to the auditor
+175. hired the editor
+176. cleaned the office of the counselor
+177. was worried about a visit from the auditor
+178. contacted the editor
+179. asked the librarian to leave
+180. hired the cleaner
+181. gave a free ride to the secretary
+182. asked the assistant to get the schedule
+183. asked the assistant to get the agreement
+184. would not give the paperwork to the auditor
+185. demanded an apology from the teacher
+186. wrote a letter to the writer
+187. talked to the clerk
+188. hired the tailor
+189. needed feedback from the cashier
+190. visited the clerk
+191. asked for the attendant
+192. rebuked the auditor
+193. hired the designer
+194. hired the secretary
+195. complained to the cashier
+196. contacted the tailor
+197. returned a book to the librarian
+198. reprimanded the accountant
+199. met with the teacher
+200. was referred to the designer
+201. struck a friendship with the clerk
+202. walked to the cashier
+203. was a big fan of the writer
+204. respected the housekeeper
+205. had to hire the accountant
+206. liked the hairdresser
+207. talked with the counselor
+208. had a meeting with the teacher
+209. promoted the housekeeper
+210. went to the house of the editor
+211. left the documents with the clerk
+212. knows the editor
+213. ran into the attendant
+214. demanded more bread from the baker
+215. asked the cashier to be more careful
+216. offered to help the receptionist
+217. never talked with the accountant
+218. loved to get a haircut from the hairdresser
+219. talked to the editor
+220. handed forms to the clerk
+221. coordinated with the designer
+222. took the editor on a ride
+223. went to the cashier
+224. met with the counselor
+225. talked to the tailor
+226. offered a ride to the teacher
+227. represented the writer
+228. was friendly with the editor
+229. went to the tailor
+230. stopped by the librarian
+231. admonished the cleaner
+232. gave a ride to the cleaner
+233. had to hire the assistant
+234. told the cleaner
+235. gave the housekeeper a ride
+236. told the receptionist
+237. helped the writer to fix the engine
+238. asked the housekeeper
+239. sends the editor sorted newspapers
+240. helped the cleaner win the case
+241. tried to persuade the hairdresser to buy something
+242. said sorry to the librarian
+243. blamed the driver
+244. always asks the librarian for help
+245. wanted to meet the counselor
+246. owed the counselor some money
+247. caught the cashier stealing the money
+248. asked the accountant many questions
+249. waited for the hairdresser
+250. stopped the nurse
+251. thanked the nurse
+252. suspected the hairdresser was the murderer
+253. helped the laborer
+254. asked the salesperson to leave
+255. showed dissatisfaction with the receptionist
+256. reminded the mover how important the books were
+257. visited the tailor
+258. checked the counselor's identity
+259. asked the receptionist the way to the toilet
+260. called the nurse
+261. is mad at the cook
+262. criticized the teacher
+263. got mad at the farmer
+264. yelled at the mover
+265. was not recognized by the receptionist
+266. earns more than the guard
+267. admires the cashier
+268. showed the driver the way to the hall
+269. disliked the attendant
+270. reminded the cook to wear suits
+271. contacted the lawyer
+272. agreed to raise the assistant's salary
+273. prepares some food for the writer
+274. was impressed by the tailor
+275. thanked the secretary
+276. invited the designer to the party
+277. told the carpenter to come back tomorrow
+278. asked the secretary to prepare some documents
+279. prepared dinner for the counselor
+280. asked the construction worker some questions
+281. visited the writer
+282. protected the assistant
+283. talked to the attendant about a patient
+284. called the accountant
+285. sent a report to the editor
+286. drove away from the salesperson
+287. drove away the salesperson
+288. is talking to the teacher about the assignments
+289. visited the physician
+290. blamed the accountant
+291. felt sorry for the receptionist
+292. hates the hairdresser
+293. hated the hairdresser
+294. could not understand the accountant
+295. meets the counselor every week
+296. asked the teacher some questions
+297. tries to approach the secretary
+298. asked the baker to prepare cakes
+299. showed the janitor the direction
+300. called the counselor
+301. is discussing with the writer
+302. told the hairdresser that she needs a fancy haircut
+303. told the hairdresser that he made a nice haircut
+304. is complaining to the cashier
+305. told the auditor to leave right now
+306. told the baker she does not want cheese in the bread
+307. complemented the baker for the bread
+308. told the designer she received a lawsuit
+309. told the designer that he may lose his job
+310. yelled at the accountant
+311. yelled at the accountant about the mistakes
+312. is talking to the cashier
+313. talked to the cleaner
+314. is discussing with the teacher
+315. is talking to the baker
+316. is telling the tailor what design she wants
+317. is talking to the tailor
+318. was angry at the clerk
+319. helped the housekeeper fix the window
+320. questioned the housekeeper
+321. argued with the receptionist
+322. refused to help the editor
+323. did not want to talk with the writer
+324. did not want to talk to the writer
+325. asked the librarian for help
+326. knows very little about the teacher
+327. does not like the baker
+328. asked the nurse for help
+329. tried to convince the housekeeper to buy software
+330. tried to convince the housekeeper
+331. picked up the accountant from the airport
+332. likes the designer's product
+333. helped the writer to pack up
+334. came to the tailor
+335. needs the assistant
+336. employed the receptionist
+337. goes to the tailor
+338. asked the nurse to go together
+339. asks the receptionist where to go
+340. hit the tailor
+341. complained about the nurse
+342. received a gift from the baker
+343. forgot the salesperson's name
+344. accused the mover
+345. told the cleaner the good news
+346. is the lawyer's good friend
+347. texted the cook what she needed to prepare
+348. texted the cook what he thought the boss wanted
+349. took down the farmer's petition
+350. kicked the assistant
+351. criticized the attendant
+352. fired the librarian
+353. is waiting for the nurse
+354. gave the attendant some tips
+355. warned the developer
+356. reminded the accountant
+357. owed the tailor
+358. troubles the physician
+359. protected the tailor
+360. brought the designer some ideas
+361. is afraid of the sheriff
+362. gave the clerk some documents
+363. recognized the developer
+364. wrote a book about the carpenter
+365. asked the attendant to try the cake
+366. employed the housekeeper
+367. competed with the attendant for the same job
+368. examined the librarian for eye problems
+369. asked the writer to help with a poem
+370. refused to obey the designer
+371. picked up bread from the baker
+372. tried to prepare for the auditor's visit
+373. traded services with the baker
+374. demanded the auditor stop snooping
+375. called the teacher to talk
+376. examined the hairdresser for cuts
+377. swept up the tailor's mess
+378. refused to help the attendant with the car
+379. wanted to take the attendant's job
+380. asked the editor if she wanted a table
+381. asked the editor if he would take the table
+382. asked the editor to withdraw the story
+383. asked the editor to redo the documents
+384. tried to avoid seeing the auditor
+385. tried to convince the designer
+386. told the counselor that he was under investigation
+387. told the counselor that she would arrive in the afternoon
+388. asked the counselor about his hourly rate
+389. asked the counselor about her recent nightmares
+390. called the tailor to fix the suit
+391. called the tailor to discuss his immune system
+392. offered a free legal advice to the attendant
+393. looked for the attendant
+394. arrived, and the attendant was surprised
+395. arrived, and the attendant lent his truck
+396. visited the librarian frequently
+397. hired the driver
+398. asked the cleaner to leave
+399. were chatting about the students
+400. were chatting about the cleaning duties
